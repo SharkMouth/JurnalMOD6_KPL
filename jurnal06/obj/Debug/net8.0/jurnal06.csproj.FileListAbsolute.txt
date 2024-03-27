@@ -12,3 +12,4 @@ D:\jurnal06\jurnal06\obj\Debug\net8.0\refint\jurnal06.dll
 D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.pdb
 D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.genruntimeconfig.cache
 D:\jurnal06\jurnal06\obj\Debug\net8.0\ref\jurnal06.dll
+D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.sourcelink.json
