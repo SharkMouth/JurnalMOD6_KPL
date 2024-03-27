@@ -1,0 +1,14 @@
+D:\jurnal06\jurnal06\bin\Debug\net8.0\jurnal06.exe
+D:\jurnal06\jurnal06\bin\Debug\net8.0\jurnal06.deps.json
+D:\jurnal06\jurnal06\bin\Debug\net8.0\jurnal06.runtimeconfig.json
+D:\jurnal06\jurnal06\bin\Debug\net8.0\jurnal06.dll
+D:\jurnal06\jurnal06\bin\Debug\net8.0\jurnal06.pdb
+D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.GeneratedMSBuildEditorConfig.editorconfig
+D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.AssemblyInfoInputs.cache
+D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.AssemblyInfo.cs
+D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.csproj.CoreCompileInputs.cache
+D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.dll
+D:\jurnal06\jurnal06\obj\Debug\net8.0\refint\jurnal06.dll
+D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.pdb
+D:\jurnal06\jurnal06\obj\Debug\net8.0\jurnal06.genruntimeconfig.cache
+D:\jurnal06\jurnal06\obj\Debug\net8.0\ref\jurnal06.dll
